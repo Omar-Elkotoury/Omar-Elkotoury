@@ -1,4 +1,3 @@
-![Uploading 242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif…]()
 # 🏄‍♂️ Omar Ahmed
 
 **`Digital Craftsman`**
@@ -24,10 +23,7 @@ I'm a software engineer, Linux distro hopper, Java apologist, and content creato
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-#
-
-## img
-
+![Uploading 242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif…]()
 
 <!-- <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
