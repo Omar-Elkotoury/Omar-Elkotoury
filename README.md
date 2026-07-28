@@ -2,7 +2,7 @@
 
 **`Documenting my journey through technology`**
 
-I'm a software engineer, Linux distro hopper, Java apologist, and content creator at [KaiFurii][youtube.com] (<!--SUBS-START-->698k<!--SUBS-END--> subscribers).
+I'm a software engineer, Linux distro hopper, Java apologist, and content creator at [KaiFurii][youtube] (<!--SUBS-START-->698k<!--SUBS-END--> subscribers).
 
    <p align="left">
       <a href="https://www.youtube.com/@KaiFurii">
