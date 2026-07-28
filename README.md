@@ -26,6 +26,7 @@ I'm a software engineer, Linux distro hopper, Java apologist, and content creato
 
 <p align="center">
 <img width="3840" height="2400" alt="QuarterlyBanner2" align="center" src="https://github.com/user-attachments/assets/0e64146c-68df-49e1-9a2d-f1ad10dc3a0a" />
+   
 <img width="800" height="50" alt="marquee" align="center" src="https://github.com/user-attachments/assets/16b19cc4-19e0-4a4e-9ea8-13d001dc91f9" /><svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">	
 </p>
    
