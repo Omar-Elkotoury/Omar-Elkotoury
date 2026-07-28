@@ -21,7 +21,7 @@ I'm a software engineer, Linux distro hopper, Java apologist, and content creato
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,arch,apple,bash,bootstrap,figma,github,gmail,notion,obsidian,ps,raspberrypi,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,arch,apple,bash,bootstrap,figma,github,gmail,notion,obsidian,ps,raspberrypi)](https://skillicons.dev)
 
 
 <p align="center">
