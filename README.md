@@ -23,7 +23,7 @@ I'm a software engineer, Linux distro hopper, Java apologist, and content creato
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-![Uploading 242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif…]()
+<img width="3840" height="2400" alt="QuarterlyBanner2" src="https://github.com/user-attachments/assets/0e64146c-68df-49e1-9a2d-f1ad10dc3a0a" />
 
 <!-- <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
