@@ -1,6 +1,6 @@
 # 🏄‍♂️ Omar Ahmed
 
-**`Digital Craftsman`**
+**`Documenting my journey through technology`**
 
 I'm a software engineer, Linux distro hopper, Java apologist, and content creator at [ForrestKnight][youtube] (<!--SUBS-START-->698k<!--SUBS-END--> subscribers).
 
