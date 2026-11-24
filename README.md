@@ -52,8 +52,7 @@
 
 ###
 
-<div align="center">
-  ![Typing animation](./thanks-for-visiting-my-profile-see.gif)
-</div>
+![Typing animation](./thanks-for-visiting-my-profile-see.gif)
+
 
 ###
