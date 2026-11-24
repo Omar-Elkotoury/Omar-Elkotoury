@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"  />
+  ![Typing animation](./thanks-for-visiting-my-profile-see.gif)
 </div>
 
 ###
