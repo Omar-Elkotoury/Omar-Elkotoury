@@ -52,9 +52,6 @@
 
 ###
 
-<img alt="Typing animation" src="./thanks-for-visiting-my-profile-see.gif">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&width=435&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!" alt="Typing SVG" /></a>
-
+![Typing animation](./thanks-for-visiting-my-profile-see.gif)
 
 ###
