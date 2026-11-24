@@ -52,7 +52,11 @@
 
 ###
 
-![Typing animation](./thanks-for-visiting-my-profile-see.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./thanks-for-visiting-my-profile-see.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./thanks-for-visiting-my-profile-see.gif">
+  <img alt="Typing animation" src="./thanks-for-visiting-my-profile-see.gif">
+</picture>
 
 
 ###
